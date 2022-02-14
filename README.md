@@ -1,1 +1,5 @@
 # PyBer_Analysis
+In this analysis we used a pandas and Matplotlib to visualize data collected about a ride-sharing service called PyBer, and made the data much easier to read and decipher. Using Matplotlib we are able to create different tables and charts which show show a variation of total rides, total drivers, total fares, and the averages of the fare per ride and fare per driver.
+
+## Summary
+After looking at the data one can see that the price for fare goes up due to the scarcity. So in suburban and rural areas where there are not as many drivers the fare per ride is a little more, but the drivers also make more. That could be due to less competition of drivers and higher fare averages. Drivers also seem to make less in Urban areas as there are twice as many drivers as total rides as opposed to other areas where the total rides is more than the total drivers. So if you are a driver you will make more in Rural and Suburban areas, but if you are a rider you will find much better rates in urban areas than other areas.
